@@ -6,9 +6,8 @@ tags:
 ---
 
 HDRP/Lit中是带了这项功能
-![[Pasted image 20251201171744.png]]
 
-
+![HDRP截图](/assets/Image/URP 接入 Geometric Specular Anti-aliasing 图1/URP 接入 Geometric Specular Anti-aliasing 图1.png)
 
 
 ```
@@ -25,7 +24,8 @@ surfaceData.smoothness = GeometricNormalFiltering(surfaceData.smoothness, inputD
 
 
 
-![[Pasted image 20251201172132.png]]
+![HDRP截图](/assets/Image/URP 接入 Geometric Specular Anti-aliasing 图1/URP 接入 Geometric Specular Anti-aliasing 图2.png)
+
 
 
 还可以这样做
